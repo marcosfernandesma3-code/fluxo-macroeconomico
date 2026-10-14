@@ -1,0 +1,18 @@
+Quero criar uma automação no N8N para analizar os dados do fed. noticias sobre cripto moedas.
+
+Público ou responsável:
+fluxo que busca oportunidade de trader.
+
+Resultado esperado:
+analisar dados econômicos e enviar resultado para um fluxo principal.
+
+Ferramentas envolvidas:
+nós nativo e api de acesso.
+
+Fluxo desejado:
+ 
+receber dados de diferentes fonte, analisar e otimizar a informação e entregar um resumo para o fluxo principal.
+
+
+Regras importantes:
+a informações devem ser apenas como complementação de analise, não define ações.
